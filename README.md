@@ -105,9 +105,11 @@ Model graph(Load Test):
 Calculation: 
 
 Open circuit characteristics:
+
 <img width="403" height="358" alt="Screenshot 2026-11-19 085919" src="https://github.com/user-attachments/assets/4b8b9116-9afe-4d2c-b0dd-69d7d49f4d83" />
 
 Load Characteristics:
+
 <img width="500" height="410" alt="Screenshot 2026-11-19 085540" src="https://github.com/user-attachments/assets/a4a3aade-c45e-420e-8c3e-6caec813ae57" />
 
 Result:
